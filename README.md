@@ -2,6 +2,7 @@
 
 > **⚠️ DISCLAIMER:** All datasets used in this project are completely dummy/random data created solely for demonstration purposes. No organization's confidential, proprietary, or real patient data is used anywhere in this code or examples. Any resemblance to actual persons, organizations, or data is purely coincidental.
 
+
 ## Background
 
 In a hospital environment, revenue reports are generated from the **Hospital Information System (HIS)** portal, while all other accounting reports are created inside the **Oracle Fusion** database. Revenue data is interfaced from HIS to Fusion.
